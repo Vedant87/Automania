@@ -22,6 +22,20 @@ Participants are invited to enter the domain of autonomous exploration, leveragi
 2. **Analysis and Mapping:** Analyze collected data to construct a comprehensive map of the virtual terrain.
 3. **Autonomous Navigation:** Develop and refine the rover's ability to traverse the simulation autonomously, making intelligent decisions based on environmental analysis.
 
+## Detailed Instructions:
+
+1. **Fill in the Blanks:**
+   Within each script, there are blank spaces that require suitable variable names or values. Your task is to identify these blank spaces and populate them accordingly.
+
+2. **Implement Missing Logic:**
+   Certain sections of logic within the scripts are commented out. These sections need to be implemented based on the provided comments. It is essential to carefully understand the logic requirements and ensure accurate implementation.
+
+## Additional Guidelines:
+
+- Pay close attention to the provided comments within each script, as they offer valuable insights into the required modifications.
+- Test your modified scripts thoroughly to ensure they function correctly within the Unity environment.
+- Feel free to optimize the code wherever possible to improve performance and maintainability.
+
 ## Outcome:
 The ultimate objective is to significantly enhance the rover's autonomous navigation capabilities, demonstrating proficiency in robotic principles and the application of algorithms in dynamic and uncertain environments. Your efforts will culminate in a presentation showcasing the rover's improved operational efficacy, detailed analysis of the implemented methodologies, and a reflection on the simulation settings' impact on performance.
 
